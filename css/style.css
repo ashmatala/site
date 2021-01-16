@@ -194,9 +194,10 @@ ul {
     background-position: 40%  60%;
     height: auto;
     width: 100%;
+    padding-bottom: 240px;
 }
 .txt-padding {
-    padding-top: 260px;
+    padding-top: 145px;
 }
 h2.line-in-txt {
     position: relative;
@@ -318,6 +319,7 @@ h2.line-in-txt:hover::after {
     background-position: 65% 35%;
     height: auto;
     width: 100%;
+    padding-bottom: 270px;
 }
 .container_2 {
     margin-left: 1100px;
@@ -365,6 +367,7 @@ details {
     background-position: 40%  60%;
     height: auto;
     width: 100%;
+    padding-bottom: 170px;
 }
 .txt-yellow-1 {
     color: #FFB548;
@@ -430,9 +433,10 @@ details {
     background-position: 40%  60%;
     height: auto;
     width: 100%;
+    padding-bottom: 150px;
 }
 .txt-padding1 {
-    padding-top: 350px;
+    padding-top: 300px;
 }
 .card-1 {
     width: 450px;
@@ -474,18 +478,21 @@ details {
     font-size: 30px;
     color:  rgba(255, 255, 255, 0.2);
     margin-left: 200px;
+    margin-right: 15px;
     margin-top: 25px;
 }
 .twitter1 {
     font-size: 30px;
     color:  rgba(255, 255, 255, 0.2);
     margin-left: 180px;
+    margin-right: 15px;
     margin-top: 25px;
 }
 .twitter2 {
     font-size: 30px;
     color:  rgba(255, 255, 255, 0.2);
     margin-left: 150px;
+    margin-right: 15px;
     margin-top: 25px;
 }
 .margin-txt {
@@ -607,7 +614,8 @@ input {
 
 /* Start footer */
 footer {
-    padding-top: 150px;
+    padding-top: 175px;
+    padding-bottom: 50px;
 }
 img.big-logo {
     width: 90px;
@@ -641,7 +649,9 @@ ul.topmenu-2 {
 .facebook:hover{
     color: rgb(51, 0, 190);
 }
-.twitter:hover{
+.twitter:hover,
+.twitter1:hover,
+.twitter2:hover {
     color: rgb(4, 193, 218);
 }
 .youtube:hover{
