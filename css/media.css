@@ -19,9 +19,6 @@
         width: 100%;
         max-width: 600px;
     }
-    .section_1{
-        height: 50vh;
-    }
     .txt-margin {
         margin-top: 30px;
     }
@@ -93,7 +90,7 @@
     }
     .mugs {
         display: flex;
-        margin-top: 370px;
+        margin-top: 310px;
         margin-left: 60px;
     }
     .mug{
@@ -126,10 +123,8 @@
     .x-box_logo, .steam_logo, .topmenu, .line {
         display: none;
     }
-    .container_2 {
-        width: 100%;
-        max-width: 600px;
-        margin: 0 auto;
+    .section_3 {
+        background-position: 20% 35%;
     }
     .txt-yellow {
         letter-spacing: 3px;
@@ -138,19 +133,6 @@
         font-size: 15px;
         margin-top: 40px;
         margin-left: 30px;
-    }
-    .papagrapf-txt-3 {
-        display: none;
-    }
-    .line1 {
-        display: none;
-    }
-    .mug-1, .mug-2, .mug-3{
-        margin-left: 20px;
-        margin-top: 40px;
-    }
-    .section_3 {
-        height: 50vh;
     }
     .contanier-3 {
         width: 100%;
@@ -204,9 +186,6 @@
     .col-2 {
         width: 100%;
         max-width: 600px;
-    }
-    .section_4 {
-        height: 100%;
     }
     .btn {
         transform: scale(0.8);
