@@ -118,6 +118,7 @@
         display: none;
     }
     .section_3 {
+        padding-bottom: 10px;
         background-position: 20% 35%;
     }
     .txt-yellow {
@@ -167,7 +168,7 @@
         max-width: 600px;
         margin: 10px auto;
     }
-    .section_5, .section_4 {
+    .section_5, .section_4, .section_2 {
         padding-bottom: 10px;
     }
     .card-1, .card-2, .card-3{
